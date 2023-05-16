@@ -3,7 +3,7 @@ In this repository, I have uploaded all of my periodic note templates. To make t
 
 The templates dates will automatically be updated whenever you insert them. There is navigation at the top of each note to make it easy to go to a bigger, smaller, or previous time period.
 
-This is an incomplete write up and I'll be adding more to it shortly so if anything is unclear, please let me know and I'll expand on it asap!
+This is an incomplete write up and I'll be expanding my explanations of everything either here or at masonroyal.com. If anything is unclear, please let me know and I'll expand on it asap!
 
 ## Review roll ups
 The goal of this is to automate reviews as much as possible so it's pretty frictionless. Doing it this way makes it very easy to see and remember the progress you're making towards your goals. It's also a good way to hold yourself accountable.
